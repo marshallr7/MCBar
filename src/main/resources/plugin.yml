@@ -1,0 +1,10 @@
+name: MCBar
+version: ${project.version}
+main: me.marshall.mcbar.MCBar
+api-version: 1.13
+authors: [Marshall]
+description: Bar plugin
+website: https://www.github.com/marshallr7
+commands:
+  corona:
+    description:
